@@ -1,7 +1,11 @@
 cse360-Project
 ==============
 
-Image Storage
+Image Storage:
+
+The code above emulates the depiction of localweb
+C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb
+It does not compile within an HTML. Follow the steps below to make it run.
 
 Download EasyPHP Webserver http://www.easyphp.org/save-easyphp-webserver-latest.php?d=direct
 Download EasyPHP Devserver http://www.easyphp.org/save-easyphp-devservervc11-latest.php?d=direct
