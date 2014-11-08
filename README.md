@@ -1,5 +1,6 @@
 cse360-Project
 ==============
+(View in RAW format)
 
 Image Storage:
 
