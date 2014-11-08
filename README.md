@@ -58,5 +58,5 @@ Initially, new members can only view the gallery (if the webmaster or admins has
 
 Things to work on:
 	-upon loggin in as a normal user, including an extra tab called "add image", allowing the user to upload 	
-  images without having to be promoted to "admin". 
+  	images without having to be promoted to "admin". 
 
